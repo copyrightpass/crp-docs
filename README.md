@@ -84,6 +84,12 @@ CRP is built around a six-contract architecture on BNB Smart Chain.
 | OperationalTimelock | `0xea9B9a25532481cd89236Ec5612282dA8d6E6305` | [View](https://bscscan.com/address/0xea9B9a25532481cd89236Ec5612282dA8d6E6305) |
 | CRPEcosystemRegistry | `0x152E93dE6c1e02a726f11C672B641FDf4e3179C8` | [View](https://bscscan.com/address/0x152E93dE6c1e02a726f11C672B641FDf4e3179C8) |
 
+## Contract Verification
+
+The official CRP BscScan verification bundle is published in the CRP contracts repository:
+
+https://github.com/copyrightpass/crp-contracts/releases/tag/bsc-mainnet-verification-v1.0.0
+
 ---
 
 ## Network Information
